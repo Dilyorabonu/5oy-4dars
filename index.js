@@ -176,7 +176,7 @@ console.log(nameString("javaScript"));
 
 //19
 
-function ikkitaSon(x, y) {
+function kichik100dan(x, y) {
   return x + y < 100;
 }
 
